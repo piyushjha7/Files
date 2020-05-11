@@ -1,0 +1,5 @@
+cities = ["Mumbai","Delhi","Chennai","Indore","Bangalore","Rajasthan","Hyderabad","Bokaro","Ranchi"]
+
+
+for each city in cities
+
